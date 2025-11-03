@@ -20,7 +20,7 @@ Proyecto Java basado en herencia y relaciones entre clases para **Pelicula**, **
 
 ##  Cómo clonar y ejecutar
 ```bash
-git clone https://github.com/<bmolinae2>/<Poo_Mollina_Bolivar_Tarea1_Unidad2>.git
+git clone https://github.com/<bmegsd95>/<Poo_Mollina_Bolivar_Tarea1_Unidad2>.git
 cd <Poo_Mollina_Bolivar_Tarea1_Unidad2>
 
 # Compilación/ejecución sencilla (Eclipse): importar como proyecto Java y ejecutar 'poo.PruebaAudioVisual'
